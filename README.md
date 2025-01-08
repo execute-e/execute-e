@@ -1,4 +1,4 @@
-<h2 align="center">Hi everyone</h2>
+<h2 align="center">Hi everyone ^.^</h2>
 <p align="center">My name is Ilya, i'm 16. I'm russian beginner web-developer. Now i'm learning JavaScript and PHP. That's all i can say about myself at the moment.</p>
 
 <!--
