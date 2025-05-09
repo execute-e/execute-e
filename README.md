@@ -1,5 +1,5 @@
 <h2 align="center">Hi everyone ^.^</h2>
-<p align="center">My name is Ilya, i'm 16. I'm russian beginner web-developer. Now i'm learning JavaScript. That's all i can say about myself at the moment.</p>
+<p align="center">My name is Ilya, i'm 16. I'm russian beginner web-developer. My skills: HTML, SCSS, JS, BEM, npm, git. That's all i can say about myself at the moment.</p>
 
 <!--
 **execute-e/execute-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
