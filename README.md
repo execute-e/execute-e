@@ -1,17 +1,72 @@
-<h2 align="center">Hi everyone ^.^</h2>
-<p align="center">My name is Ilya, i'm 16. I'm russian beginner web-developer. My skills: HTML, SCSS, JS, BEM, npm, git. That's all i can say about myself at the moment.</p>
+# 👋 Hi, I'm Ilya
+A 17-year-old frontend developer from Russia, focused on building modern and responsive web applications
 
-<!--
-**execute-e/execute-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
+Here are some of my key projects that showcase my skills:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Song-Kol-Travel** | [Live Demo](https://execute-e.github.io/song-kol-travel/) | [GitHub](https://github.com/execute-e/song-kol-travel)
+A fully responsive, accessible landing page for Song-Kol-Travel. 
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+---
+
+### Todo List Application | [Live demo](https://execute-e.github.io/todo-react-ts/) | [GitHub](https://github.com/execute-e/todo-react-ts)
+A modern, high-performance Todo List application featuring excellent accessibility and cross-browser compatibility.
+
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+
+## 📁 Other Projects
+Here are some of my learning projects and experiments:
+
+* **Lawyer Landing** | [Live Demo](https://execute-e.github.io/Lawyer/) | [GitHub](https://github.com/execute-e/Lawyer)
+* **FromBoard Delivery Landing** | [Live Demo](https://execute-e.github.io/FromBoard-Delivery/) | [GitHub](https://github.com/execute-e/FromBoard-Delivery)
+* **Castaway Landing** | [Live Demo](https://execute-e.github.io/castaway/) | [GitHub](https://github.com/execute-e/castaway)
+* **Positivus Landing** | [Live Demo](https://execute-e.github.io/Positivus/) | [GitHub](https://github.com/execute-e/Positivus)
+
+## 🛠️ Tech Stack
+
+**Frontend & Languages:**
+
+* [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+* [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+
+* [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+
+* [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
+**State Management:**
+
+* [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+* Zustand
+
+**Other libraries and tools that I am somewhat familiar with:**
+
+* Ant Design
+* [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
+* [![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff)](#)
+* [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+* [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+
+## 🌱 I'm currently focusing on
+
+* Deepening my knowledge of React architecture and advanced patterns
+* Improving performance and accessibility in web applications
+* Exploring full-stack development possibilities
+
+## 📫 How to reach me
+
+* **[Telegram](https://t.me/he4vyArtillery)**
+
+---
+
+I'm always open to discussing new projects, creative ideas,
