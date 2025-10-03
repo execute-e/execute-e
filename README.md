@@ -25,6 +25,7 @@ Here are some of my learning projects and experiments:
 * **FromBoard Delivery Landing** | [Live Demo](https://execute-e.github.io/FromBoard-Delivery/) | [GitHub](https://github.com/execute-e/FromBoard-Delivery)
 * **Castaway Landing** | [Live Demo](https://execute-e.github.io/castaway/) | [GitHub](https://github.com/execute-e/castaway)
 * **Positivus Landing** | [Live Demo](https://execute-e.github.io/Positivus/) | [GitHub](https://github.com/execute-e/Positivus)
+* **Random quotes** | [GitHub](https://github.com/execute-e/quotes-react-ts)
 
 ## 🛠️ Tech Stack
 
