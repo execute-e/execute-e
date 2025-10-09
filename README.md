@@ -66,7 +66,7 @@ Here are some of my learning projects and experiments:
 
 ## 📫 How to reach me
 
-* **[Telegram](https://t.me/he4vyArtillery)**
+* **[Telegram](https://t.me/onodera1)**
 
 ---
 
