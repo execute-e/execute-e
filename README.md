@@ -18,6 +18,13 @@ A modern, high-performance Todo List application featuring excellent accessibili
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 
+---
+
+### The Monicorns | [Live demo](https://nft2-alpha.vercel.app/) | [GitHub](https://github.com/execute-e/nft2)
+Digital home for a unique NFT project born from the streets, magic, and a powerful sense of community.
+
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+
 ## 📁 Other Projects
 Here are some of my learning projects and experiments:
 
