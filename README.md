@@ -25,6 +25,13 @@ Digital home for a unique NFT project born from the streets, magic, and a powerf
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 
+---
+
+### SOS Game Landing | [Live Demo](https://sos-game-seven.vercel.app/) | [GitHub](https://github.com/execute-e/sos-game)
+Responsive promo site for SOS. Features i18n and a Tailwind CSS design.
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+
 ## 📁 Other Projects
 Here are some of my learning projects and experiments:
 
