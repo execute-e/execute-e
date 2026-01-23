@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ilya
+# 👋 Hi, I'm ThreeCheers
 A 17-year-old frontend developer from Russia, focused on building modern and responsive web applications
 
 ![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtzcDE1OHo2aWU0bTJjMmh3aHg0cjM3a2FuMDh2YzlxeWdja2x0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6T7lPSMHpNdle/giphy.gif)
